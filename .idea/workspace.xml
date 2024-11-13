@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b583805-7707-4d35-8c98-9569fa20b4be" name="Changes" comment="ajout de java doc" />
+    <list default="true" id="0b583805-7707-4d35-8c98-9569fa20b4be" name="Changes" comment="correction du nom du dossier de java docs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,7 @@
     "git-widget-placeholder": "1-another-test",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/steph/Documents/GitHub/TestDesignPatternA13v2-1277/src/main/java/edu/coursA13/org/example",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731462261821</updated>
-      <workItem from="1731462901757" duration="2345000" />
+      <workItem from="1731462901757" duration="3606000" />
     </task>
     <task id="LOCAL-00001" summary="ajout de java doc">
       <option name="closed" value="true" />
@@ -80,7 +83,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731465237979</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="correction du nom du dossier de java docs">
+      <option name="closed" value="true" />
+      <created>1731465534010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731465534010</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ajout de java doc" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout de java doc" />
+    <MESSAGE value="correction du nom du dossier de java docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction du nom du dossier de java docs" />
   </component>
 </project>
